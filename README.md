@@ -20,8 +20,8 @@ Collaby Organisation is a team of passionate Web3 and crypto developers dedicate
 
 ### GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=collaby&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=collaby&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=collaby-org&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=collaby-org&theme=radical" alt="GitHub Streak" />
 </p>
 
 ### Online Status:
@@ -32,10 +32,10 @@ Collaby Organisation is a team of passionate Web3 and crypto developers dedicate
 ### Socials:
 <p align="center">
   <a href="https://t.me/collaby_xyz">
-    <img src="https://img.shields.io/badge/Telegram-Join%20Chat-blue?logo=telegram" alt="Telegram Chat" />
+    <img src="https://img.shields.io/endpoint?url=https://tg.sumanjay.dev/collaby_xyz&label=Telegram%20Chat&logo=telegram&color=blue" alt="Telegram Chat" />
   </a>
   <a href="https://t.me/collaby_org">
-    <img src="https://img.shields.io/badge/Telegram-News%20Channel-blue?logo=telegram" alt="Telegram News Channel" />
+    <img src="https://img.shields.io/endpoint?url=https://tg.sumanjay.dev/collaby_org&label=Telegram%20News%20Channel&logo=telegram&color=blue" alt="Telegram News Channel" />
   </a>
   <a href="https://twitter.com/collaby">
     <img src="https://img.shields.io/twitter/follow/collaby?style=social" alt="Twitter Follow" />
@@ -44,13 +44,15 @@ Collaby Organisation is a team of passionate Web3 and crypto developers dedicate
 
 ### VS Code Coding Activity:
 <p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-Coding%20Activity-blue?logo=visual-studio-code" alt="VS Code Coding Activity" />
+  <img src="https://img.shields.io/badge/VS%20Code-Coding-blue?logo=visual-studio-code" alt="VS Code Coding Activity" />
 </p>
 
 ### Visit Our Website:
 <p align="center">
   <a href="https://collaby.org">
-    <img src="https://via.placeholder.com/800x400.png?text=Website+Preview" alt="Website Preview" />
+    <img src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fcollaby.org" alt="Website Status" />
+    <img src="https://img.shields.io/badge/Connection-Secure-brightgreen" alt="Secure Connection" />
+    <img src="https://img.shields.io/uptimerobot/ratio/m780134722-0/uptimerobot.com" alt="Uptime Status" />
   </a>
 </p>
 
