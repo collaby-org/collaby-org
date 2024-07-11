@@ -57,7 +57,7 @@ Collaby Organisation is a team of passionate Web3 and crypto developers dedicate
   <a href="https://t.me/collaby_org">
     <img src="https://img.shields.io/badge/Telegram-News%20Channel-blue?logo=telegram" alt="Telegram News Channel" />
   </a>
-  <a href="https://twitter.com/collaby">
+  <a href="https://x.com/collaby_org">
     <img src="https://img.shields.io/twitter/follow/collaby?style=social" alt="Twitter Follow" />
   </a>
 </p>
