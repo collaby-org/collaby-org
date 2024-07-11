@@ -18,10 +18,23 @@ Collaby Organisation is a team of passionate Web3 and crypto developers dedicate
   </a>
 </p>
 
-### GitHub Stats:
+## GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=collaby-org&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=collaby-org&theme=radical" alt="GitHub Streak" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=collaby-org&show_icons=true&theme=radical" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=collaby-org&theme=radical" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=collaby-org&theme=radical" alt="GitHub Trophy" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 ### Online Status:
@@ -31,7 +44,8 @@ Collaby Organisation is a team of passionate Web3 and crypto developers dedicate
     <img src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fcollaby.org" alt="Website Status" />
     <img src="https://img.shields.io/badge/Connection-Secure-brightgreen" alt="Secure Connection" />
     <img src="https://img.shields.io/badge/VS%20Code-Coding-blue?logo=vs-code" alt="VS Code Coding Activity" />
-    <img src="https://img.shields.io/uptimerobot/ratio/7/m780134722" alt="Uptime Status" />
+    <img src="https://img.shields.io/badge/ping-24ms-brightgreen" alt="Ping Status" />
+    <img src="https://img.shields.io/badge/load%20time-1.2s-brightgreen" alt="Load Time" />
   </a>
 </p>
 
