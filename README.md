@@ -27,7 +27,7 @@ Collaby Organisation is a team of passionate Web3 and crypto developers dedicate
 ### Online Status:
 <p align="center">
   <img src="https://img.shields.io/badge/status-online-green" alt="Online Status" />
-  <img src="https://img.shields.io/badge/VS%20Code-Coding-blue?logo=visual-studio-code" alt="VS Code Coding Activity" />
+  <img src="https://img.shields.io/badge/VS%20Code-Coding-blue?logo=vs-code" alt="VS Code Coding Activity" />
 </p>
 
 ### Socials:
@@ -35,20 +35,18 @@ Collaby Organisation is a team of passionate Web3 and crypto developers dedicate
   <a href="https://t.me/collaby_xyz">
     <img src="https://img.shields.io/badge/Telegram-Join%20Chat-blue?logo=telegram" alt="Telegram Chat" />
   </a>
+  <a href="https://collaby.org">
+    <img src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fcollaby.org" alt="Website Status" />
+    <img src="https://img.shields.io/badge/Connection-Secure-brightgreen" alt="Secure Connection" />
+  </a>
   <a href="https://t.me/collaby_org">
     <img src="https://img.shields.io/badge/Telegram-News%20Channel-blue?logo=telegram" alt="Telegram News Channel" />
   </a>
   <a href="https://twitter.com/collaby">
     <img src="https://img.shields.io/twitter/follow/collaby?style=social" alt="Twitter Follow" />
   </a>
-</p>
-
-### Visit Our Website:
-<p align="center">
   <a href="https://collaby.org">
-    <img src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fcollaby.org" alt="Website Status" />
-    <img src="https://img.shields.io/badge/Connection-Secure-brightgreen" alt="Secure Connection" />
-    <img src="https://img.shields.io/uptimerobot/ratio/m780134722-0/uptimerobot.com" alt="Uptime Status" />
+    <img src="https://img.shields.io/uptimerobot/ratio/m780134722-0/collaby.org" alt="Uptime Status" />
   </a>
 </p>
 
